@@ -15,6 +15,7 @@
 		16C412841F7B132D00E32745 /* Exports.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 16C412831F7B132C00E32745 /* Exports.xcconfig */; };
 		16C4157B1F7B16FB00E32745 /* rsync_exclude in Resources */ = {isa = PBXBuildFile; fileRef = 16C415781F7B16FA00E32745 /* rsync_exclude */; };
 		16C4157C1F7B16FB00E32745 /* UnityUtils.mm in Sources */ = {isa = PBXBuildFile; fileRef = 16C415791F7B16FA00E32745 /* UnityUtils.mm */; };
+		FB1D84482659ACCC00302FCB /* NomadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1D84472659ACCC00302FCB /* NomadViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		16C415781F7B16FA00E32745 /* rsync_exclude */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = rsync_exclude; sourceTree = "<group>"; };
 		16C415791F7B16FA00E32745 /* UnityUtils.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = UnityUtils.mm; sourceTree = "<group>"; };
 		16C4157A1F7B16FA00E32745 /* UnityUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UnityUtils.h; sourceTree = "<group>"; };
+		FB1D84472659ACCC00302FCB /* NomadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NomadViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				16C4157A1F7B16FA00E32745 /* UnityUtils.h */,
 				16C415791F7B16FA00E32745 /* UnityUtils.mm */,
 				16C415781F7B16FA00E32745 /* rsync_exclude */,
+				FB1D84472659ACCC00302FCB /* NomadViewController.swift */,
 			);
 			path = Unity;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 			files = (
 				164A97931F7B111F00D4DA8D /* ViewController.swift in Sources */,
 				164A97911F7B111F00D4DA8D /* AppDelegate.swift in Sources */,
+				FB1D84482659ACCC00302FCB /* NomadViewController.swift in Sources */,
 				16C4157C1F7B16FB00E32745 /* UnityUtils.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
